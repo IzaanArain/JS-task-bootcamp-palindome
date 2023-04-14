@@ -20,6 +20,6 @@ function pal(str) {
   }
 }
 
-// console.log('Enter a palindrome');
-// const userInput = prompt('Enter a word that is a palindrome');
-// pal(userInput);
+console.log('Enter a palindrome');
+const userInput = prompt('Enter a word that is a palindrome');
+pal(userInput);
